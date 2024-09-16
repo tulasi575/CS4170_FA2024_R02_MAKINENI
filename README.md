@@ -110,10 +110,3 @@ The following table shows the results of running the parallel trapezoidal rule p
 | 11      | 0.000440        | 0.000168          | 2.62        | 0.24           |
 | 12      | 0.000544        | 0.000217          | 2.51        | 0.21           |
 
-### Speedup and Efficiency Calculations
-
-**Speedup (S)** is calculated as:
-\[ S = \frac{\text{Serial Time}}{\text{Parallel Time}} \]
-
-**Efficiency (E)** is calculated as:
-\[ E = \frac{S}{\text{Number of Threads}} \]
